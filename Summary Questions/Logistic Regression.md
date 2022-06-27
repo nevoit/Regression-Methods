@@ -3,7 +3,7 @@
 
 ## Questions
 
-1. Logistic regression is ____
+1. **Logistic regression is ____**
 
     (A) Unsupervised
     
