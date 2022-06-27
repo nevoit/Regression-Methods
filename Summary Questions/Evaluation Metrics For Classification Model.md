@@ -1,5 +1,5 @@
 
-# Evaluation Metrics For Classification Model![image](https://user-images.githubusercontent.com/19512902/175926682-3885d04b-4f4f-4c12-acb4-10b0322ca7b9.png)
+# Evaluation Metrics For Classification Model
 
 ## Questions
 
