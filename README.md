@@ -15,7 +15,7 @@ This repository contains code and information on various regression methods, inc
 
 Regression models are widely used in various fields, including finance, healthcare, and social sciences. This repository aims to provide an overview of different regression methods, their advantages, and limitations, and how to implement them in Python.
 
-## Methods Covered
+## Methods
 
 The repository covers the following regression methods:
 
@@ -28,7 +28,7 @@ The repository covers the following regression methods:
 - Generalized linear model (GLM)
 - Generalized Additive Models (GAM)
 
-Each folder contains code and explanation for the corresponding method.
+Each folder contains code and an explanation for the corresponding method.
 
 ## Getting Started
 
@@ -40,7 +40,7 @@ You can modify the code to fit your own dataset and experiment with different hy
 
 ## Contributing
 
-Contributions to this repository are welcome. If you have any suggestions, bug reports, or would like to add a new method, please open an issue or submit a pull request.
+Contributions to this repository are welcome. If you have any suggestions, or bug reports, or would like to add a new method, please open an issue or submit a pull request.
 
 ## License
 
